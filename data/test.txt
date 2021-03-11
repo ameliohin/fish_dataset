@@ -1,5 +1,5 @@
-/content/fish_dataset/data/images/image-0000121.png
-/content/fish_dataset/data/images/image-0000162.png
-/content/fish_dataset/data/images/image-0000164.png
+/content/fish_dataset/data/images/image-0000157.png
+/content/fish_dataset/data/images/image-0000129.png
+/content/fish_dataset/data/images/image-0000165.png
 /content/fish_dataset/data/images/image-0000118.png
-/content/fish_dataset/data/images/image-0000127.png
+/content/fish_dataset/data/images/image-0000166.png

@@ -1,4 +1,4 @@
-/content/fish_dataset/data/images/image-0000154.png
 /content/fish_dataset/data/images/image-0000167.png
-/content/fish_dataset/data/images/image-0000125.png
-/content/fish_dataset/data/images/image-0000119.png
+/content/fish_dataset/data/images/image-0000122.png
+/content/fish_dataset/data/images/image-0000134.png
+/content/fish_dataset/data/images/image-0000211.png
