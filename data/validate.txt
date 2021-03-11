@@ -1,0 +1,4 @@
+/content/mask-detection-dataset/data/images/image-0000156.png
+/content/mask-detection-dataset/data/images/image-0000164.png
+/content/mask-detection-dataset/data/images/image-0000160.png
+/content/mask-detection-dataset/data/images/image-0000123.png
