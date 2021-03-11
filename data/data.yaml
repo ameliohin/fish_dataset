@@ -1,0 +1,9 @@
+train: ../fish_dataset/data/train.txt
+val: ../fish_dataset/data/validate.txt
+test: ../fish_dataset/data/test.txt
+
+# number of classes
+nc: 1
+
+# class names
+names: ['fish']
