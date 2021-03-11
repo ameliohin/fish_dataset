@@ -26,9 +26,9 @@ def xml_to_darknet(path):
             class_name =  node.find('name').text
 
             if(class_name == 'fish'):
-                object_['class_'] = 'fish'
+                object_['class_'] = '0'
             else:
-                object_['class_'] = '2'          
+                continue     
             
             # bounding box
             bnd_box = node.find("bndbox")
