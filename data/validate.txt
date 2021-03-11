@@ -1,4 +1,4 @@
-/content/mask-detection-dataset/data/images/image-0000156.png
-/content/mask-detection-dataset/data/images/image-0000164.png
-/content/mask-detection-dataset/data/images/image-0000160.png
-/content/mask-detection-dataset/data/images/image-0000123.png
+/content/fish_dataset/data/images/image-0000154.png
+/content/fish_dataset/data/images/image-0000167.png
+/content/fish_dataset/data/images/image-0000125.png
+/content/fish_dataset/data/images/image-0000119.png

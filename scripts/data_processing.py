@@ -75,7 +75,7 @@ def process_data():
     for dirname, _, filenames in os.walk('../data/images'):
         for filename in filenames:
             # img_paths.append(os.path.join('../mask-detection-dataset/data/images', filename)) # local machine
-            img_paths.append(os.path.join('/content/mask-detection-dataset/data/images', filename)) # google colab
+            img_paths.append(os.path.join('/content/fish_dataset/data/images', filename)) # google colab
             # img_paths.append(os.path.join('./mask-detection-dataset/data/images', filename)) # kaggle
             
     # shuffle data
